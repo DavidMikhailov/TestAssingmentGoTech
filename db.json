@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What is your favorite languages?",
+      "questionType": "multiple",
+      "answerOptions": [
+        "Kotlin",
+        "Java",
+        "C++"
+      ],
+      "required": true
+    },
+    {
+      "id": 2,
+      "questionText": "What do you like about programming?",
+      "questionType": "text",
+      "answerOptions": [],
+      "required": false
+    },
+    {
+      "id": 3,
+      "questionText": "How was the assignment?",
+      "questionType": "single",
+      "answerOptions": [
+        "Easy",
+        "Normal",
+        "Hard",
+        "Other:"
+      ],
+      "required": true
+    }
+  ],
+  "answers": []
+}

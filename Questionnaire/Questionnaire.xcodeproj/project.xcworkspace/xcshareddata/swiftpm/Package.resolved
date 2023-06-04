@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dependency",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chFlorian/Dependency",
+      "state" : {
+        "revision" : "aa9b0323432eb7b27ef1ecbf5193e73caf50d064",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
